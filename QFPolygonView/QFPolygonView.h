@@ -44,7 +44,6 @@ NS_ASSUME_NONNULL_BEGIN
  @param frame 视图 位置
  @param array 决定有几个角 是几边形
  @param turnsNumber 有几圈
- @param isShow 是否展示分数 YES: 展示属性 + 分数 NO: 只展示属性
  @return 当前对象
  */
 - (instancetype)initWithFrame:(CGRect)frame propetryArray:(NSArray *)array turnsNumber:(NSInteger)turnsNumber;
