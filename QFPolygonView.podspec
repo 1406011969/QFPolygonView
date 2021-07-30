@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "QFPolygonView"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "一个 多边形能力图 多边形属性分值 的控件"
 
   # This description is used to generate tags and improve search results.
